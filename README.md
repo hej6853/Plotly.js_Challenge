@@ -1,4 +1,5 @@
 # Plot.ly Challenge - Belly Button Biodiversity
+Live Demo: https://hej6853.github.io/Plotly.js_Challenge--Biodiversity/
 
 ![image](https://user-images.githubusercontent.com/79428102/135770356-b1f3e530-ccb4-4343-90ab-1d822805b28a.png)
 
