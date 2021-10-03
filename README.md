@@ -1,6 +1,6 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Plot.ly Challenge - Belly Button Biodiversity
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+![image](https://user-images.githubusercontent.com/79428102/135770356-b1f3e530-ccb4-4343-90ab-1d822805b28a.png)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
@@ -18,7 +18,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+![image](https://user-images.githubusercontent.com/79428102/135770369-c4f55204-8578-4ee0-bae9-748a8b4ab702.png)
 
 3. Create a bubble chart that displays each sample.
 
@@ -32,19 +32,19 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
+![image](https://user-images.githubusercontent.com/79428102/135770376-a55090dd-541c-472c-a8aa-ebcefc0157ac.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![image](https://user-images.githubusercontent.com/79428102/135770389-57b58ebc-c6dd-41ec-a661-72c6fb19a75c.png)
 
 6. Update all of the plots any time that a new sample is selected.
 
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-![hw](Images/hw02.png)
+![image](https://user-images.githubusercontent.com/79428102/135770406-58a36c33-810f-42da-91ad-eec90f74c5d1.png)
 
 ## Advanced Challenge Assignment (Optional)
 
@@ -56,8 +56,7 @@ The following task is advanced and therefore optional.
 
 * Update the chart whenever a new sample is selected.
 
-![Weekly Washing Frequency Gauge](Images/gauge.png)
-
+![image](https://user-images.githubusercontent.com/79428102/135770408-c7ffb806-21be-411e-90c8-4c947b63f007.png)
 
 ### About the Data
 
